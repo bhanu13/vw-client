@@ -1,0 +1,8 @@
+spring:
+  profiles: local
+model:
+  port: 8880
+
+---
+spring:
+  profiles: test
